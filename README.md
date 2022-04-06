@@ -1,8 +1,10 @@
 # TCMDSilentInstall
 
-A silent installer to install Total Commander
+A silent installer of Total Commander
 
-__How to keep the file:__
+
+
+ # How to keep the file
 
 __Edge__
 
@@ -10,9 +12,9 @@ __Edge__
 
 ![img2](https://user-images.githubusercontent.com/93790230/160257015-f409cd4f-68ee-4b54-ba01-5a89c1eafd90.png)
 
-![img3](https://user-images.githubusercontent.com/93790230/160257050-baf3bdaf-4243-4a77-8904-5e4766ec306f.png)
+![img3](https://i.imgur.com/SgvWCjs.png)
 
-![img4](https://user-images.githubusercontent.com/93790230/160257092-a170347e-ce38-4438-a4b5-9ae592bbb7a5.png)
+![img4](https://i.imgur.com/xwII7yG.png)
 
 
 __Google Chrome__
